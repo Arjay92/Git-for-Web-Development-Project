@@ -32,9 +32,11 @@ Copy the questions below into the firt-lastname.txt file on your github repo - a
     -<section> tag wraps up the content, while the <div> tagssplits it in half
     17. What is CSS used for? 
     -CSS is used for styling your webpage
-    18. How to we select an element? Example - every h2 on the page
-    19. What is the difference between a class and an id? - Give me an example of when I might use each one
+    18. How to we select an element? Example 
+    19. What is the difference between a class and an id? - 
+    -ID can be used to identify one element, Class can be used to identify more than one
     20. How do we select classes in CSS?
+    -to select a specific class you put (.) followed by the name of the class
     21. How do we select a p element with a single class of “human””?
     22. What is a parent child selector? When would this be useful? 
     23. How do you select all links within a div with the class of sidebar?
