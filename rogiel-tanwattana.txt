@@ -33,7 +33,7 @@ Copy the questions below into the firt-lastname.txt file on your github repo - a
     17. What is CSS used for? 
     -CSS is used for styling your webpage
     18. How to we select an element? Example 
-    19. What is the difference between a class and an id? - 
+    19. What is the difference between a class and an id?  
     -ID can be used to identify one element, Class can be used to identify more than one
     20. How do we select classes in CSS?
     -to select a specific class you put (.) followed by the name of the class
