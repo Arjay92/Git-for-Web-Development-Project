@@ -25,14 +25,16 @@ Copy the questions below into the firt-lastname.txt file on your github repo - a
     12. How many times can I use the same class on a page? 
     - You can have more than one on a page
     13. How do I get my link to open in a new tab?
+    - add target="_blank" attribute to your links
     14. What is the alt attribute used for? 
     - Alt attributes are applied to image tags.
     15. How do I reference an id?
+    - To select a specific id, type # followed by the id of the element.
     16. What is the difference between a section and a div
     -<section> tag wraps up the content, while the <div> tagssplits it in half
     17. What is CSS used for? 
     -CSS is used for styling your webpage
-    18. How to we select an element? Example 
+    18. How to we select an element? 
     19. What is the difference between a class and an id?  
     -ID can be used to identify one element, Class can be used to identify more than one
     20. How do we select classes in CSS?
@@ -55,13 +57,21 @@ Copy the questions below into the firt-lastname.txt file on your github repo - a
     29. How do I select everything on the page? 
     - *{
     30. How do I write a comment in CSS?
+    - /* comment /*
     31. How do I find out what file I am in, when I am using the command line? 
+    - pwd
     32. Using the command line - how do I see a list of files/folders in my current folder?
+    - ls -la
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
+    - $rm <file>, be careful because you can accidentally delete everything
     34. Why should I use version control? 
+    - It keeps track of changes made to your code overtime, and is useful so you can revert back to specific versions
     35. How often should I commit to github?
+    - commit as often as you like
     36. What is the command we would use to push our repo up to github? 
+    - $ git push
     37. Walk me through Lambda's git flow. 
+    - 1.  Create your own (fork) 2. Add TL 3. Clone your repo 4. Create your branch -b 'firstname-lastname' 5. Push to github. 6. Pull Req
 
 Stretch Questions
 
